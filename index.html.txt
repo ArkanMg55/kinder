@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelance Programmer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>مرحبا، أنا [اسمك]</h1>
+        <p>مبرمج مستقل</p>
+    </header>
+    <section id="about">
+        <h2>نبذة عني</h2>
+        <p>[تفاصيل عنك]</p>
+    </section>
+    <section id="services">
+        <h2>الخدمات</h2>
+        <ul>
+            <li>تطوير مواقع ويب</li>
+            <li>تطوير تطبيقات جوال</li>
+            <li>تحليل البيانات</li>
+        </ul>
+    </section>
+    <section id="portfolio">
+        <h2>معرض الأعمال</h2>
+        <p>[أمثلة على أعمالك]</p>
+    </section>
+    <section id="contact">
+        <h2>اتصل بي</h2>
+        <p>البريد الإلكتروني: [بريدك الإلكتروني]</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 [اسمك]</p>
+    </footer>
+</body>
+</html>
